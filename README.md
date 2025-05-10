@@ -1,0 +1,2 @@
+# ThaliSanjha
+Mini Project Repository
